@@ -1,0 +1,10 @@
+gitmojis:
+  sparkles: 推出新功能。
+  bug: 修复一个 bug。
+  construction-worker: 添加或更新 CI 构建系统。
+  green-heart: 修复 CI 构建。
+  memo: 添加或更新文档。
+  recycle: 重构代码。
+  zap: 提高性能。
+  white-check-mark: 添加、更新或通过测试。
+  rewind: 恢复更改。

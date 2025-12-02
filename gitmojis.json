@@ -1,0 +1,76 @@
+{
+  "gitmojis": [
+    {
+      "emoji": "✨",
+      "entity": "&#x2728;",
+      "code": ":sparkles:",
+      "description": "A new feature.",
+      "name": "sparkles",
+      "semver": "minor"
+    },
+    {
+      "emoji": "🐛",
+      "entity": "&#x1f41b;",
+      "code": ":bug:",
+      "description": "A bug fix.",
+      "name": "bug",
+      "semver": "patch"
+    },
+    {
+      "emoji": "👷",
+      "entity": "&#x1f477;",
+      "code": ":construction_worker:",
+      "description": "Changes that affect the build system or external dependencies.",
+      "name": "construction-worker",
+      "semver": null
+    },
+    {
+      "emoji": "💚",
+      "entity": "&#x1f49a;",
+      "code": ":green_heart:",
+      "description": "Changes to CI configuration files and scripts.",
+      "name": "green-heart",
+      "semver": null
+    },
+    {
+      "emoji": "📝",
+      "entity": "&#x1f4dd;",
+      "code": ":memo:",
+      "description": "Documentation only changes.",
+      "name": "memo",
+      "semver": null
+    },
+    {
+      "emoji": "♻️",
+      "entity": "&#x267b;",
+      "code": ":recycle:",
+      "description": "A code change that neither fixes a bug nor adds a feature.",
+      "name": "recycle",
+      "semver": null
+    },
+    {
+      "emoji": "⚡️",
+      "entity": "&#x26a1;",
+      "code": ":zap:",
+      "description": "A code change that improves performance.",
+      "name": "zap",
+      "semver": "patch"
+    },
+    {
+      "emoji": "✅",
+      "entity": "&#x2705;",
+      "code": ":white_check_mark:",
+      "description": "Adding missing tests or correcting existing tests.",
+      "name": "white-check-mark",
+      "semver": null
+    },
+    {
+      "emoji": "⏪️",
+      "entity": "&#9194;",
+      "code": ":rewind:",
+      "description": "Reverts a previous commit.",
+      "name": "rewind",
+      "semver": "patch"
+    }
+  ]
+}

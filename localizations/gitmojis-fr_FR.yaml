@@ -1,0 +1,10 @@
+gitmojis:
+  sparkles: Introduire de nouvelles fonctionnalités.
+  bug: Corriger un bug.
+  construction-worker: Ajouter ou mettre à jour le système de construction CI.
+  green-heart: Corriger la construction CI.
+  memo: Ajouter ou mettre à jour la documentation.
+  recycle: Refactoriser le code.
+  zap: Améliorer les performances.
+  white-check-mark: Ajouter, mettre à jour ou passer des tests.
+  rewind: Revenir en arrière.

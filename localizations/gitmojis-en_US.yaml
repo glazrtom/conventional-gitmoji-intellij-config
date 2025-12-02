@@ -1,0 +1,10 @@
+gitmojis:
+  sparkles: A new feature.
+  bug: A bug fix.
+  construction-worker: Changes that affect the build system or external dependencies.
+  green-heart: Changes to CI configuration files and scripts.
+  memo: Documentation only changes.
+  recycle: A code change that neither fixes a bug nor adds a feature.
+  zap: A code change that improves performance.
+  white-check-mark: Adding missing tests or correcting existing tests.
+  rewind: Reverts a previous commit.
