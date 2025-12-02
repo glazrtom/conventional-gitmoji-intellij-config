@@ -6,7 +6,9 @@ This repository contains a small configuration and translations for using a "con
 
 ## Specification
 
-This configuration limits the available gitmojis to a small, well-defined set that maps to Conventional Commit intent (feat, fix, docs, etc.). Use the emoji that best communicates why the change was made.
+This configuration implements the [conventional gitmoji concept](https://conventional-gitmoji.web.app/) created by [Ackee](https://ackee.cz). 
+
+With this configuration, it limits the available gitmojis to a small, well-defined set that maps to Conventional Commit intent (feat, fix, docs, etc.). Use the emoji that best communicates why the change was made.
 
 ### Allowed emojis and their intent
 
@@ -47,7 +49,7 @@ The plugin will use the gitmojis.json and the localization files to present a co
 
 ## License and attribution
 
-This configuration is implementation of the [conventional gitmoji concept](https://conventional-gitmoji.web.app/) created by [Ackee](https://ackee.cz). It is an independent configuration for use with the Gitmoji Plus Commit Button plugin.
+This configuration is implementation of the [conventional gitmoji concept](https://conventional-gitmoji.web.app/) created by [Ackee](https://ackee.cz). It is an configuration for use with the [Gitmoji Plus Commit Button plugin](https://plugins.jetbrains.com/plugin/12383-gitmoji-plus-commit-button).
 
 ## Contributions
 
