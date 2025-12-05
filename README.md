@@ -34,13 +34,13 @@ Install the [Gitmoji Plus Commit Button plugin](https://plugins.jetbrains.com/pl
 Set the gitmojis url to:
 
 ```
-https://raw.githubusercontent.com/glazrtom/conventional-gitmoji-intellij-config/refs/heads/master/gitmojis.json
+https://raw.githubusercontent.com/glazrtom/conventional-gitmoji-config/refs/heads/master/gitmojis.json
 ```
 
 and the localization url to:
 
 ```
-https://raw.githubusercontent.com/glazrtom/conventional-gitmoji-intellij-config/refs/heads/master/localizations/gitmojis-{locale}.yaml
+https://raw.githubusercontent.com/glazrtom/conventional-gitmoji-config/refs/heads/master/localizations/gitmojis-{locale}.yaml
 ```
 
 The plugin will use the gitmojis.json and the localization files to present a constrained, conventional set of emojis when creating commits.
